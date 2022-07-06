@@ -67,6 +67,9 @@ section {
 }
 
 /* donate-today */
+.donate-today-bar {
+   background-color: #f5f4f4;
+}
 .donate-today-wrapper {
    width: 50%;
    margin: 0 auto;
@@ -195,7 +198,7 @@ section {
 .form-info input {
    width: 340px;
    border: none;
-   background-color: rgb(209, 208, 208);
+   background-color: rgb(253, 251, 251);
    border-radius: 5px;
    padding: 12px 10px;
    outline: none;
